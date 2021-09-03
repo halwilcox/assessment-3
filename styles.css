@@ -1,10 +1,10 @@
 body {
-  background: #ddd;
+  background: peachpuff;
   margin: 1rem;
   padding: 1rem;
   max-width: 500px;
   margin: 2rem auto;
-  font-family: "Open Sans", sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 #color {
 	background-color: Yellow;
@@ -45,5 +45,5 @@ input {
 }
 
 img {
-	max-width: 300px;
+	max-width: 500px;
 }
