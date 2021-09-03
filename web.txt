@@ -1,0 +1,9 @@
+    The purpose of the web is to move data from one place to another. The client, such as a computer connected to Wi-Fi,
+communicate with servers. Servers are computers that store webpages, sites, or apps. When the client sends a request 
+for a website through a URL, the server will respond and download a copy of the requested webpage onto the clients 
+machine to be displayed in the user's web browser. 
+    To break it down even further, we typically talk to servers by using their hostname such as amazon.com. The request is 
+    then send to the local DNS Cache and then your cable modem. It then travels to the DNS server and located the address 
+    of the server that website lives on. Your browser sends an HTTP request message. If the server approves the 
+    clients request, the website responds and starts sending website files in data packets. After recieving the packets,
+    your browser will assemble all the small chunks into a complete webpage. 

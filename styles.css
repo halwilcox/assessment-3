@@ -6,7 +6,18 @@ body {
   margin: 2rem auto;
   font-family: "Open Sans", sans-serif;
 }
-
+#color {
+	background-color: Yellow;
+	padding: 10px 15px;
+}
+#place {
+	background-color: lightyellow;
+	padding: 10px 15px;
+}
+#ritual {
+	background-color: gold;
+	padding: 10px 15px;
+}
 nav {
 	border-bottom: 2px solid orange;
 }
